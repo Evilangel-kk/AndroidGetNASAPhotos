@@ -34,12 +34,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Secondexperiment"
         android:usesCleartextTraffic="true"
-        android:preserveLegacyExternalStorage="true"
-        tools:targetApi="31">
+        android:preserveLegacyExternalStorage="true">
         <activity
             android:name=".ShowImages"
             android:exported="true" >
-
         </activity>
         <activity
             android:name=".MainActivity"
